@@ -1,4 +1,4 @@
-# Home-Price-Prediction-Project
+# Home-Price-Prediction
 
 Prediction Home Prices in Banglor 
 banglore home prices dataset from kaggle.com.
